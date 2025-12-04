@@ -2,7 +2,9 @@
 
 ## Project Overview
 **Goal**: Predict customer churn to help the business retain customers and reduce revenue loss.
+
 **Target**: Achieve a Recall of 80% to capture as many potential churners as possible.
+
 **Model**: XGBoost Classifier.
 
 Customer churn is a critical metric for subscription-based businesses. This project analyzes customer data to identify key drivers of churn and builds a machine learning model to predict which customers are at risk of leaving.
