@@ -8,6 +8,8 @@
 Customer churn is a critical metric for subscription-based businesses. This project analyzes customer data to identify key drivers of churn and builds a machine learning model to predict which customers are at risk of leaving.
 
 ## Results
+![](https://github.com/Bloom776/Customer-Churn-Prediction/blob/main/images/Top_10_feature_importance_for%20churn_prediction.png)
+
 - **AUC-ROC Score**: **0.82** (Strong ability to distinguish between churners and non-churners)
 - **Recall (Churn Class)**: **69%** (Captures a significant portion of at-risk customers)
 - **Accuracy**: 75%
